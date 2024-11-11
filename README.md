@@ -1,12 +1,12 @@
-##Link: 
+## Link: 
 [link](https://dorizokuclothing.myshopify.com/)
-##password:(Only for users) 
+## password:(Only for users) 
 '''password
 airtaw
 '''
-##Video:-
+## Video:-
 [](<link>)
-##Team:
+## Team:
 1. Parijat Pal (UID: 23BCC70037)
 2. Sumit Joshi (UID: 23BCC70040)
 3. Kavya Rastogi (UID: 23BCC70019)
