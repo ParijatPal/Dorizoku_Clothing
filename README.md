@@ -1,11 +1,11 @@
 ## Link: 
 [link](https://dorizokuclothing.myshopify.com/)
-## password:(Only for users) 
+## Password:(Only for viewers) 
 ```password
 airtaw
 ```
 ## Video:-
-[](<link>)
+[Demonstration Video](https://youtu.be/myrJdqjcvMM)
 ## Team:
 1. Parijat Pal (UID: 23BCC70037)
 2. Sumit Joshi (UID: 23BCC70040)
